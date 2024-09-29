@@ -18,7 +18,7 @@
   - Memakan tempat dan sulit dibaca. Bar chart bisa lebih efisien dalam kasus ini.
 
 ### 2. 3D Bar Chart
-
+![Screenshot 2024-09-28 085748](https://github.com/user-attachments/assets/135748a0-97ff-4395-8312-b5acaa4f0166)
 - **Deskripsi:** Bar chart 3D di mana sumbu dan perspektif menyebabkan distorsi visual.
 - **Mengapa ini termasuk dalam kategori visualisasi yang kurang baik:**
   - Penggunaan perspektif 3D membuat perbandingan antar bar sulit karena panjangnya terdistorsi.
