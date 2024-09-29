@@ -30,7 +30,7 @@
 ## Contoh Good Visualisasi
 
 ### 1. Simple Bar Chart
-
+![Screenshot 2024-09-28 091955](https://github.com/user-attachments/assets/1542852e-9984-4b09-9082-b21a2dd7d1bc)
 - **Deskripsi:** Bar chart horizontal sederhana dengan kategori yang jelas, nilai numerik, dan warna yang konsisten.
 - **Mengapa visualisasi ini termasuk visualisasi yang baik:**
   - Mudah dibaca, setiap bar dan nilai jelas terpisah dan mudah dibandingkan.
@@ -39,6 +39,8 @@
   - Tidak ada elemen tambahan yang mengganggu; pesan data langsung tersampaikan.
 
 ### 2. Line Chart
+![Screenshot 2024-09-28 094744](https://github.com/user-attachments/assets/5cdc591f-6ac3-4b42-920c-9cb20b871b1e)
+
 - **Deskripsi:** Line chart dengan beberapa garis yang menunjukkan tren selama periode waktu, dengan satu garis di-highlight untuk menonjolkan tren utama.
 - **Mengapa ini termasuk dalam visualisasi yang baik:**
   - Fokus pada tren utama dengan penekanan visual yang tepat. Garis lain masih ada, tetapi tidak mendominasi.
